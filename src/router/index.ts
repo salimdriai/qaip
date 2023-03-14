@@ -1,2 +1,2 @@
-export * from './topic.routes'
-export * from './question.routes'
+export * from './topics.routes'
+export * from './questions.routes'
